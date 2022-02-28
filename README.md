@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python and markdown
 - 📫 How to reach me: ezhecheva-student@azbuki-school.bg
 - 😄 Pronouns: she/her
-- 🐱‍💻 Highschool student
+- 🐱‍💻 I'm a highschool student
